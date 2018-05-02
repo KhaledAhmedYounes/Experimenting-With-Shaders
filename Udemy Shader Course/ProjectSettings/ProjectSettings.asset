@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 14
-  productGUID: 65892b1f125c8ac44a8526da041a5761
+  productGUID: d0a76e9d9a2c19445b0c065fd832c72f
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   defaultScreenOrientation: 4
@@ -204,7 +204,6 @@ PlayerSettings:
   tvOSSmallIconLayers: []
   tvOSSmallIconLayers2x: []
   tvOSLargeIconLayers: []
-  tvOSLargeIconLayers2x: []
   tvOSTopShelfImageLayers: []
   tvOSTopShelfImageLayers2x: []
   tvOSTopShelfImageWideLayers: []
@@ -630,11 +629,12 @@ PlayerSettings:
     daydream:
       daydreamIconForeground: {fileID: 0}
       daydreamIconBackground: {fileID: 0}
-  cloudServicesEnabled: {}
+  cloudServicesEnabled:
+    UNet: 1
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
-  cloudProjectId: a3f0e3d6-4455-40ba-b5a7-cef0738aae5d
-  projectName: Udemy Shader Course
+  cloudProjectId: bbe02840-49e7-4965-8d9f-eb64b34ea08b
+  projectName: Udemy Shader Course (1)
   organizationId: khaled_a_younes
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
