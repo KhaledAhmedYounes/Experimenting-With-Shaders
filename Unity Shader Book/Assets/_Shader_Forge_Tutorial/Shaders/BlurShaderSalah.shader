@@ -30,7 +30,7 @@ Shader "Shader Forge/BlurShaderSalah" {
             #pragma multi_compile_fwdbase
             #pragma multi_compile_fog
             #pragma only_renderers d3d9 d3d11 glcore gles 
-            #pragma target 3.0
+            #pragma target 2.0
             uniform sampler2D _GrabTexture;
             uniform float _Offset;
 			uniform float _SigmaSq;
