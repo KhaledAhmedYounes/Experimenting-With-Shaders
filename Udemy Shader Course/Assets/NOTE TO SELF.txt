@@ -1,0 +1,3 @@
+Download HLSL plugin for Visual Studio when you get back home.
+
+Also look for plugin for VS Code

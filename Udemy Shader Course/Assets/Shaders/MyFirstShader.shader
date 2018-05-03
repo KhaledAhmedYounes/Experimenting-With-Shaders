@@ -20,7 +20,7 @@
 			void surf (Input IN, inout SurfaceOutput o) {
 				o.Albedo = _myColor.rgb;
 				o.Emission = _myEmission.rgb;
-				o.Normal = _myNormal.rgb;
+				o.Normal = _myNormal;
 			}
 		ENDCG
 	}
